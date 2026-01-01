@@ -248,8 +248,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Sidhart Sami - [@sidhartsami](https://github.com/sidhartsami)
-
+Sidhart Sami - sidhart.sami@gmail.com
 Project Link: [https://github.com/sidhartsami/CS2006-Multi-User-Document-Editor](https://github.com/sidhartsami/CS2006-Multi-User-Document-Editor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
